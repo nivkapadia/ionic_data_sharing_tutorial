@@ -1,0 +1,7 @@
+{
+  "name": "data_sharing",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
